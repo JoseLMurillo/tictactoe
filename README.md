@@ -1,3 +1,5 @@
+# Reto de tic tac toe con JavaScript usando variables, condicionales y ciclos.
+
 Desarrolla un juego de tic-tac-toe para ser jugado **exclusivamente** en la consola del navegador. El juego permite a dos jugadores **alternar turnos** para marcar sus movimientos en un tablero de 3x3. El primer jugador usará 'X' y el segundo 'O'. El segundo jugador será una máquina que realiza sus movimientos de manera **aleatoria**. El juego finaliza cuando uno de los jugadores logra alinear tres de sus símbolos en línea horizontal, vertical o diagonalmente, o cuando se llenan todas las casillas sin alineación ganadora, resultando en un empate.
 
 ## Ejemplo del Flujo del Juego
